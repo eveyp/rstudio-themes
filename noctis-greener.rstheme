@@ -73,22 +73,22 @@
 }
 
 .ace_constant.ace_language {
-  color: #7060eb;
+  color: #8679eb;
 
 }
 
 .ace_constant.ace_numeric {
-  color: #7060eb;
+  color: #8679eb;
 
 }
 
 .ace_constant.ace_character {
-  color: #7060eb;
+  color: #8679eb;
 
 }
 
 .ace_constant.ace_other {
-  color: #7060eb;
+  color: #8679eb;
 
 }
 
